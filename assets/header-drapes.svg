@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="240" viewBox="0 0 1800 240" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#19050a"/>
+      <stop offset="1" stop-color="#3a0b15"/>
+    </linearGradient>
+    <linearGradient id="fold" x1="0" y1="0" x2="0" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c7394f" stop-opacity="0.72"/>
+      <stop offset="0.7" stop-color="#6d1122" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#2d0912" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="240" fill="url(#bg)"/>
+  <g opacity="0.95">
+    <path d="M0 0H105V240H0V0Z" fill="url(#fold)"/>
+    <path d="M140 0H255V240H140V0Z" fill="url(#fold)"/>
+    <path d="M280 0H400V240H280V0Z" fill="url(#fold)"/>
+    <path d="M430 0H545V240H430V0Z" fill="url(#fold)"/>
+    <path d="M570 0H695V240H570V0Z" fill="url(#fold)"/>
+    <path d="M720 0H845V240H720V0Z" fill="url(#fold)"/>
+    <path d="M870 0H995V240H870V0Z" fill="url(#fold)"/>
+    <path d="M1020 0H1145V240H1020V0Z" fill="url(#fold)"/>
+    <path d="M1170 0H1295V240H1170V0Z" fill="url(#fold)"/>
+    <path d="M1320 0H1445V240H1320V0Z" fill="url(#fold)"/>
+    <path d="M1470 0H1595V240H1470V0Z" fill="url(#fold)"/>
+    <path d="M1620 0H1745V240H1620V0Z" fill="url(#fold)"/>
+  </g>
+  <rect y="228" width="1800" height="12" fill="#d2a15b"/>
+</svg>
