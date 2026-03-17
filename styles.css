@@ -180,11 +180,15 @@ img {
 .brand {
   display: inline-flex;
   align-items: center;
+  height: 130px;
+  overflow: visible;
 }
 
 .brand img {
   width: auto;
-  height: clamp(106px, 15vw, 144px);
+  height: 130px;
+  transform: scale(4) translateY(12px);
+  transform-origin: left center;
   filter: drop-shadow(0 4px 10px rgba(10, 3, 5, 0.4));
 }
 
